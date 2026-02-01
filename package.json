@@ -2,7 +2,7 @@
   "name": "contacts-management-api",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/Contacts-Management-API.git"
+    "url": "https://github.com/HasmikPoghosyanclasses/contact.management.api.git"
   },
   "version": "1.0.0",
   "description": "Contacts Management API with user authentication",
